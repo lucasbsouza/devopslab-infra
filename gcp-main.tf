@@ -10,6 +10,7 @@ resource "google_compute_instance" "firstvm" {
       image = "ubuntu-2004-focal-v20220308"
     }
   }
+  
 
   # Habilita rede para a VM com um IP público
   network_interface {
