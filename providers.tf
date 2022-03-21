@@ -14,6 +14,7 @@ provider "google" {
   zone    = "us-west1-b"
 }
 
+
 provider "google-beta" {
   project = "lab-devops-340709"
   region  = "us-west1"
