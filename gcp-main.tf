@@ -23,7 +23,6 @@ resource "google_compute_instance" "firstvm" {
 
 resource "google_app_engine_application" "app" {
   project     = "lab-devops-340709"
-  poject_id   = "lab-devops-340709"
   location_id = "us-central"
 }
 
