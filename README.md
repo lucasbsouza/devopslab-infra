@@ -1,2 +1,2 @@
 # devopslab-infra
-commit fake
+Criação de infra via terraform
